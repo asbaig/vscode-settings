@@ -16,6 +16,7 @@
     "vscode-icons-team.vscode-icons",
 		"vscjava.vscode-java-pack",
 		"vmware.vscode-boot-dev-pack",
-		"rangav.vscode-thunder-client",
+    "rangav.vscode-thunder-client",
+    "bierner.markdown-preview-github-styles",
 	]
 }
